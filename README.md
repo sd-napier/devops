@@ -9,5 +9,4 @@ Initial README from Lab 2
 
 
 # DevOps
-![GitHub Workflow Status (develop)](https://img.shields.io/github/workflow/status/sd-napier/Hello_World_Workflow/?style=flat-square)
-
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/sd-napier/devops/Hello_World_Workflow/develop?style=flat-square)

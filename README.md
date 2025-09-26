@@ -8,3 +8,6 @@ Initial README from Lab 2
 [![Releases](https://img.shields.io/github/release/sd-napier/devops/all.svg?style=flat-square)](https://github.com/sd-napier/devops/releases)
 
 
+# DevOps
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/sd-napier/devops/main.yml/?style=flat-square)
+

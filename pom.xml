@@ -6,7 +6,7 @@
 
     <groupId>com.napier.sem</groupId>
     <artifactId>setMethods</artifactId>
-    <version>view-records</version>
+    <version>setMethods-view-records-jar-with-dependencies</version>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
